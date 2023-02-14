@@ -12,5 +12,10 @@ hello Andy ! hello git !
 hello Andy ! hello git !
 hello Andy ! hello git !
 hello Andy ! hello git !
+
 hello Andy ! hello git ! master test
+
+======
 hello Andy ! hello git !
+hello Andy ! hello git ! hot-fix test
+>>>>>>> hot-fix
